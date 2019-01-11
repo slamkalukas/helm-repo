@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   sample-cloud-connector:
   - apiVersion: v1
-    created: 2019-01-09T13:50:56.339319+01:00
+    created: 2019-01-11T16:15:28.666876+01:00
     description: A Helm chart for Kubernetes
-    digest: 743e4c88dd9368cf2d5555c29f78c6732b428ecae9ec1cf14607955a4e7c55a1
+    digest: 45506e35a1d8e40dbdc22e4827ee2f3c971c762a5bb01b6726a0264a34e0d3de
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: sample-cloud-connector
     urls:
@@ -12,12 +12,12 @@ entries:
     version: 0.1.0
   sample-runtime-bundle:
   - apiVersion: v1
-    created: 2019-01-09T13:50:56.344676+01:00
+    created: 2019-01-11T16:15:28.667197+01:00
     description: A Helm chart for Kubernetes
-    digest: 599d85674e63569f35bc31d6846ee1f9d1281f2c3a9294c758da7ef0274324da
+    digest: 53119be7dac36a2cb553c8f09191b4ea140131c48bfdee4999c4b7e50fce23e4
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: sample-runtime-bundle
     urls:
     - https://slamkalukas.github.io/helm-repo/sample-runtime-bundle-0.1.0.tgz
     version: 0.1.0
-generated: 2019-01-09T13:50:56.336439+01:00
+generated: 2019-01-11T16:15:28.666313+01:00
